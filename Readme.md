@@ -1,4 +1,4 @@
-This is the task for Asympto.
+This is the task for Azympto.
 Here, I have build the front page based on the given figma link.
 https://www.figma.com/file/tlVbMpacnMGWDtoiKC9lvg/az-eval?node-id=1%3A2351&t=tSMqY5PQ7q2fMBF1-0
 

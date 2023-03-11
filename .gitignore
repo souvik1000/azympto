@@ -4,7 +4,7 @@
 /node_modules
 
 # Remove assets to push
-/public/assets
+# /public/assets
 
 # Can hold push of the dist also, but for this project adding dist
 # ./dist
