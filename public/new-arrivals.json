@@ -1,0 +1,74 @@
+[
+  {
+    "icon": "Product1.png",
+    "title": "Sun Cream",
+    "type": "Sun Care",
+    "mrp": "30",
+    "offerPrice": "20",
+    "discount": "",
+    "color": "rgba(255, 193, 35, 1)"
+  },
+  {
+    "icon": "Product2.png",
+    "title": "Night Eye Cream",
+    "type": "Eye Care",
+    "mrp": "100",
+    "offerPrice": "50",
+    "discount": "50",
+    "color": "rgba(41, 117, 255, 1)"
+  },
+  {
+    "icon": "Product3.png",
+    "title": "Acne Skin Gel",
+    "type": "Treatments",
+    "mrp": "25",
+    "offerPrice": "",
+    "discount": "",
+    "color": "rgba(255, 102, 160, 1)"
+  },
+  {
+    "icon": "Product4.png",
+    "title": "Dry Skin Rescue",
+    "type": "Moisturizers",
+    "mrp": "59",
+    "offerPrice": "",
+    "discount": "",
+    "color": "rgba(0, 204, 150, 1)"
+  },
+  {
+    "icon": "Product5.png",
+    "title": "Body Protection",
+    "type": "Treatments",
+    "mrp": "32",
+    "offerPrice": "",
+    "discount": "",
+    "color": "rgba(255, 193, 35, 1)"
+  },
+  {
+    "icon": "Product6.png",
+    "title": "All In One Gel",
+    "type": "Featured",
+    "mrp": "79",
+    "offerPrice": "",
+    "discount": "",
+    "color": "rgba(41, 117, 255, 1)"
+  },
+  {
+    "icon": "Product7.png",
+    "title": "Deep Treatment",
+    "type": "On Sale",
+    "mrp": "22",
+    "offerPrice": "17",
+    "discount": "5",
+    "color": "rgba(255, 102, 160, 1)"
+  },
+  {
+    "icon": "Product8.png",
+    "title": "Morning Shine",
+    "type": "Night Care",
+    "mrp": "14",
+    "offerPrice": "",
+    "discount": "",
+    "color": "rgba(0, 204, 150, 1)"
+  }
+]

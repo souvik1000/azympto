@@ -1,0 +1,34 @@
+[
+  {
+    "icon": "LocalMallOutlinedIcon",
+    "title": "On Sale"
+  },
+  {
+    "icon": "TrendingUpOutlinedIcon",
+    "title": "Featured"
+  },
+  {
+    "icon": "LayersOutlinedIcon",
+    "title": "Masks"
+  },
+  {
+    "icon": "RemoveRedEyeOutlinedIcon",
+    "title": "Eye Care"
+  },
+  {
+    "icon": "OpacityOutlinedIcon",
+    "title": "Moisturizers"
+  },
+  {
+    "icon": "ShieldOutlinedIcon",
+    "title": "Treatments"
+  },
+  {
+    "icon": "DarkModeOutlinedIcon",
+    "title": "Night Care"
+  },
+  {
+    "icon": "WbSunnyOutlinedIcon",
+    "title": "Sun Care"
+  }
+]
